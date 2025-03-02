@@ -1,5 +1,8 @@
 **EMSR Data Crawler**
 
+**Credits**
+Forked from Benjamin Jordan, who created the original github post for this combined project.
+
 **Overview**
 
 This Python script automates the retrieval and downloading of EMSR (Emergency Mapping Service Rapid Mapping) data from the Copernicus Emergency Management Service. The script fetches disaster-related data based on user-defined queries (country, city, or disaster type) and downloads available Geographic Reference (GRA) products.
